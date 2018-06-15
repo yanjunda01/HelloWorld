@@ -3,4 +3,6 @@ add in newA branch.
 
 another checkin to master.
 
-write in temp branch
+write in master branch
+
+commit in temp branch
